@@ -1,0 +1,3 @@
+[submodule "libs/Submodule_LeVanQuang"]
+	path = libs/Submodule_LeVanQuang
+	url = https://github.com/levanquang123/Submodule_LeVanQuang.git
